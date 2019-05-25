@@ -1,2 +1,2 @@
-# dart-guess-the-number
-Terminal game developed in 100 days code challenge
+# Guess The Number
+Terminal game developed in 100 days code challenge on the dart language.
